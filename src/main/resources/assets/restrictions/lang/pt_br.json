@@ -1,0 +1,8 @@
+{
+    "block.restrictions.pusher": "Bloco de Repulsão",
+    "block.restrictions.attractor": "Bloco de Atração",
+    "block.restrictions.oneway": "Bloco de Sentido Único",
+    "item.restrictions.glassboots": "Botas de Vidro",
+
+    "itemGroup.restrictions": "Restrictions"
+}
